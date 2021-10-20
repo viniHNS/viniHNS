@@ -3,7 +3,7 @@
 
  
 
-  <li>  👨‍🎓 I’m currently learning Java </li> 
+  <li>  👨‍🎓 I’m currently learning HTML and CSS </li> 
   
   
   
