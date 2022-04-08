@@ -3,7 +3,7 @@
 
  
 
-  <li>  👨‍🎓 I’m currently learning HTML,CSS and JavaScript </li> 
+  <li>  👨‍🎓 I’m currently learning HTML, CSS and JavaScript </li> 
   
   
   
