@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinihns&label=Profile%20views&color=0e75b6&style=flat" alt="vinihns" /> </p>
 
-- 🔭 I’m currently working on [Not so Realistic! SPT mod](https://github.com/viniHNS/Not-So-Realistic)
+- 🔭 I’m currently working on [Tarkov Craft SPT mod](https://github.com/viniHNS/TarkovCraft)
 
 - 🌱 I’m currently learning **C# and Typescript**
 
